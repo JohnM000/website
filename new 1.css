@@ -1,0 +1,36 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+.box {
+  min-height: 200px;
+  width: 200px;
+}
+
+.white {
+	  background-color: #FF995B;
+	  min-height:0px;
+	  width: 50%
+}
+
+.light_green {
+  background-color: #83FF00;
+  top: 50%
+}
+
+.green {
+  background-color: #3F7300;
+  text-align: center;
+  float:center;
+  width:100px;
+}
+
+.yellow {
+  background-color: #FBFF00;
+  float:right;
+  width:200px;
+  display: block;
+}
+.blue {
+  background-color: #67FFFF;
+  display: block;
+}
+
+.container{width:100%;}
